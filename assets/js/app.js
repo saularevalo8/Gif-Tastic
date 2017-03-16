@@ -77,7 +77,7 @@ $("#add-new-topic").on("click", function() {
 
     topics.push(NewValue);
 
-    if (NewValue !== "") { 
+    if (NewValue !== "") {
 
         addButton();
     }
