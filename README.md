@@ -1,4 +1,4 @@
-# Gif-Tastic
+# GifTastic
 1. Created an array of strings, each one related to a car brand. 
 2. the topics, or car brands in this array and create buttons in the HTML.
 3. Used a loop that appends a button for each string in the array.
